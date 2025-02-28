@@ -24,13 +24,23 @@
     margin: 0;
     text-align: center;
   }
-  .details {
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin-left: 10px;
-    margin-right: 10px;
+  
+  #details {
+
+    margin: 50px;
+
   }
 
+  #details1{
+
+    margin: 50px;
+
+  }
+  #details2{
+    
+    margin: 50px;
+
+  }
   
   #chiken {
     background-color: rgb(255, 22, 69);
